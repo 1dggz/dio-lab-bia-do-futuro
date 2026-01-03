@@ -1,4 +1,5 @@
 # 🤖 Agente Financeiro Inteligente com IA Generativa
+>Assistente virtual inteligente focada em educação financeira, construída com IA Generativa para ajudar pessoas a entenderem melhor suas finanças e tomarem decisões mais conscientes.
 
 ### 📐 Arquitetura do Projeto
 
