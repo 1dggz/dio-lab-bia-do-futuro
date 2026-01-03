@@ -1,44 +1,26 @@
 # Pitch (3 minutos)
-
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
  
 ## Roteiro Sugerido
 
 ### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
-
-[Sua descrição aqui]
+> Muitas pessoas que estão iniciando a vida profissional enfrentam dificuldades para organizar suas finanças. Falta conhecimento sobre conceitos básicos, como orçamento mensal, reserva de emergência e definição de metas financeiras, o que gera insegurança e adiamento do planejamento financeiro.
 
 ### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
-
-[Sua descrição aqui]
+> Diante desse cenário, foi desenvolvida a Duda, uma Educadora Financeira em formato de chatbot, com foco totalmente educativo. O objetivo da Duda não é dizer ao usuário como gastar ou investir seu dinheiro, mas ensinar conceitos financeiros de forma simples e auxiliar na organização e no planejamento financeiro básico, sempre respeitando a autonomia do usuário.
 
 ### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
-
-[Descreva o que será mostrado]
+> Será mostrado o agente respondendo as seguintes perguntas:
+- Quanto eu preciso ter de reserva de emergência?
+- Como posso organizar meus gastos mensais?
+- Qual a previsão do tempo?
 
 ### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
-
-[Sua descrição aqui]
-
----
-
-## Checklist do Pitch
-
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+>O grande diferencial da Duda é o compromisso com a ética. Ela não recomenda investimentos específicos, não promete ganhos financeiros e não substitui profissionais da área. Seu papel é educar, simplificar e promover consciência financeira, funcionando como um ponto de partida seguro para quem está começando. Assim, a Duda se apresenta como uma ferramenta acessível, responsável e alinhada às boas práticas no uso da inteligência artificial aplicada à educação financeira.
 
 ---
 
 ## Link do Vídeo
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
+> [Video explicando o projeto](https://drive.google.com/file/d/1BwTAlT-HHT0dlinm7_7Y3wzbi2EF6ifP/view?usp=sharing)
 
-[Link do vídeo]
+
